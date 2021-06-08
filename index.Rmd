@@ -17,27 +17,43 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Test**
+# **Guidogiorgio Bodrato**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+I am a PhD Candidate in Economics at [**CREST**](https://crest.science) and [**Institut Polytechnique de Paris**](https://www.ip-paris.fr). My research focuses on fixed-income, covering both government and other securities in the primary and secondary markets.
 
-## How to use
+### Education and Training
+`r fontawesome::fa(name = "graduation-cap", fill = "steelblue")` 2021 (expected) - **PhD in Economics**, \
+CREST & Institut Polytechnique de Paris.
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+`r fontawesome::fa(name = "graduation-cap", fill = "steelblue")`
+2018 - **MRes in Economics**, \
+ENSAE & Institut Polytechnique de Paris.
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+`r fontawesome::fa(name = "archway", fill = "steelblue")`
+2017 - **Data and Statistics Traineeship**, \
+European Securities and Markets Authority (ESMA).
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+`r fontawesome::fa(name = "graduation-cap", fill = "steelblue")`
+2016 - **MA in Quantitative Economics**, \
+ECARES, Solvay Business School, Université Libre de Bruxelles.
 
-4. Change everything to make it your own.
+`r fontawesome::fa(name = "graduation-cap", fill = "steelblue")`
+2013 - **BA in Business Economics**, \
+Univerisità degli Studi di Torino.
 
+&nbsp; 
+
+You can download my full [**CV**](CV_Bodrato_April2021.pdf) here. \
+`r fontawesome::fa(name = "envelope", fill = "steelblue")`
+Contact me at **guidogiorgio.bodrato [at] polytechnique.edu**.
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+<a>
+![](images/logo.png){width=70%}
+![](images/IPP.png){width=30%}
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
 </a>
+
 </div>

@@ -1,0 +1,32 @@
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+&nbsp; 
+&nbsp; 
+
+# **Teaching**
+
+&nbsp; 
+
+`r fontawesome::fa(name = "book-open", fill = "steelblue")`
+2021 - Lecturer, **Quantitative Analysis** (with R), IEP de Paris (SciencesPo).
+
+`r fontawesome::fa(name = "book-open", fill = "steelblue")`
+2020 - Teaching Assistant, **Macroeconomics**, ENSAE & Institut Polytechnique de Paris.
+
+`r fontawesome::fa(name = "book-open", fill = "steelblue")`
+2020 - Teaching Assistant, **Time Series Analysis**, ENSAE & Institut Polytechnique de Paris.
+
+`r fontawesome::fa(name = "book-open", fill = "steelblue")`
+2019 - Teaching Assistant, **Econometrics**, ENSAE & Institut Polytechnique de Paris.
+
+`r fontawesome::fa(name = "book-open", fill = "steelblue")`
+2019 - Teaching Assistant, **International Organizations**, IEP de Paris (SciencesPo).

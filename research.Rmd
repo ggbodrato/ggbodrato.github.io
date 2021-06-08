@@ -1,0 +1,25 @@
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+&nbsp; 
+&nbsp; 
+
+# **Research**
+
+&nbsp; 
+
+### Current Projects
+
+`r fontawesome::fa(name = "file", fill = "steelblue")`
+**Market Uncertainty around Political Events** (draft available upon request).
+
+`r fontawesome::fa(name = "file", fill = "steelblue")`
+**Mispricing in Sovereign Debt Issuances** (in progress), \ joint with François Koulischer (LSF) and Lorenzo Ricci (ESM).

@@ -1,11 +1,11 @@
-name: "MyLabJournal"
+name: "Guidogiorgio Bodrato"
 navbar:
-  title: "MyLabJournal"
+  title: "Guidogiorgio Bodrato"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
-      href: Journal.html
-    - text: "Links"
-      href: Links.html
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
 output_dir: "docs"
