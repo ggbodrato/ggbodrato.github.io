@@ -17,16 +17,22 @@
 &nbsp; 
 
 `r fontawesome::fa(name = "book-open", fill = "steelblue")`
-2021 - Lecturer, **Quantitative Analysis** (with R), IEP de Paris (SciencesPo).
+Winter Term, 2024 - Guest Teacher, **Corporate Finance, Investors and Financial Markets**, Finance Department, London School of Economics.
 
 `r fontawesome::fa(name = "book-open", fill = "steelblue")`
-2020 - Teaching Assistant, **Macroeconomics**, ENSAE & Institut Polytechnique de Paris.
+Autumn Term, 2023 - Guest Teacher, **Risk Modelling and Management**, Finance Department, London School of Economics.
 
 `r fontawesome::fa(name = "book-open", fill = "steelblue")`
-2020 - Teaching Assistant, **Time Series Analysis**, ENSAE & Institut Polytechnique de Paris.
+Autumn Term, 2020 - Guest Lecturer, **Quantitative Analysis** (with R), School of Public Affairs, IEP de Paris (SciencesPo).
 
 `r fontawesome::fa(name = "book-open", fill = "steelblue")`
-2019 - Teaching Assistant, **Econometrics**, ENSAE & Institut Polytechnique de Paris.
+Winter Term, 2020 - Teaching Assistant, **Macroeconomics**, ENSAE, Institut Polytechnique de Paris.
 
 `r fontawesome::fa(name = "book-open", fill = "steelblue")`
-2019 - Teaching Assistant, **International Organizations**, IEP de Paris (SciencesPo).
+Winter Term, 2020 - Teaching Assistant, **Time Series Analysis**, ENSAE, Institut Polytechnique de Paris.
+
+`r fontawesome::fa(name = "book-open", fill = "steelblue")`
+Autumn Term 2019 - Teaching Assistant, **Econometrics**, ENSAE, Institut Polytechnique de Paris.
+
+`r fontawesome::fa(name = "book-open", fill = "steelblue")`
+Winter Term 2018, 2019 - Teaching Assistant, **International Organizations**, Paris School of International Affairs, IEP de Paris (SciencesPo).
