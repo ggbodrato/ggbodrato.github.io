@@ -16,10 +16,14 @@
 
 &nbsp; 
 
-### Current Projects
+### Research 
 
 `r fontawesome::fa(name = "file", fill = "steelblue")`
-**Market Uncertainty around Political Events** (draft available upon request).
+**Market Uncertainty around Political Events**.
 
 `r fontawesome::fa(name = "file", fill = "steelblue")`
-**Mispricing in Sovereign Debt Issuances** (in progress), \ joint with François Koulischer (LSF) and Lorenzo Ricci (ESM).
+**Mispricing in Sovereign Debt Issuances**, \ joint with Lorenzo Ricci (ESM).
+
+### Policy 
+
+[**Mortgage Borrowers and Macroeconomic Developments**](https://www.fca.org.uk/publication/research-notes/research-note-mortgage-borrowers-macroeconomic-developments.pdf), FCA Research Note, 2023.
